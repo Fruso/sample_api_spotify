@@ -2,6 +2,9 @@
 
 Sample API using:
   <br>
-  Node/Express
-  Access Token
-  MongoDB
+
+<ul>
+  <li>Node/Express</li>
+  <li>Access Token</li>
+  <li>MongoDB</li>
+</ul>
