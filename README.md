@@ -1,6 +1,6 @@
-# sample api spotify
 
-<h2>Install: Sample API using:</h2>
+
+<h2>Sample API using:</h2>
 
 <ul>
   <li>Node/Express</li>
