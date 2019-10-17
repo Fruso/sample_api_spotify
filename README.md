@@ -8,7 +8,7 @@
   <li>MongoDB</li>
 </ul>
 
-<h2>Requiere: </h2>
+<h2>Requirements: </h2>
 Mongo Server
 
 <h2>Install: </h2>
